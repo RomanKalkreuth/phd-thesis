@@ -6,7 +6,7 @@ This dissertation aims on analyzing fundamental concepts and dogmas of a graph-b
 
 The preferred way to cite this work is
 
-> Kalkreuth, R. T. (2021b). “Reconsideration and Extension of Cartesian
+> Kalkreuth, R. T. (2021). “Reconsideration and Extension of Cartesian
 > Genetic Programming”. PhD thesis. TU Dortmund University. doi: 10.17877/DE290R- 22504. 
 > url: http://dx.doi.org/10.17877/DE290R-22504
 
